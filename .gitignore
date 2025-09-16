@@ -21,3 +21,13 @@ erl_crash.dump
 
 # secrets
 .mise.local.toml
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml

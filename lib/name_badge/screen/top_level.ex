@@ -5,6 +5,10 @@ defmodule NameBadge.Screen.TopLevel do
 
   @screens [
     {"Name Badge", NameBadge.Screen.NameBadge},
+    {"Personal Info", NameBadge.Screen.PersonalInfo},
+    {"Animation", NameBadge.Screen.Animation},
+    {"GitHub QR", NameBadge.Screen.GitHubQR},
+    {"Pokeball QR", NameBadge.Screen.PokeballQR},
     {"Gallery", NameBadge.Screen.Gallery},
     {"Schedule", NameBadge.Screen.Schedule},
     {"Settings", NameBadge.Screen.Settings}
